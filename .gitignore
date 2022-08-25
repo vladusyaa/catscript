@@ -103,5 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-# Github Files
-.github
+# Github Files, Images
+.github/
+.images/
